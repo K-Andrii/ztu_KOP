@@ -1,0 +1,24 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  min-width: 200px;
+  text-align: center;
+  background-color: #fff;
+  transition: all 0.3s ease;
+}
+.title {
+  font-size: 14px;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+
+.value {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+.trend {
+  font-size: 14px;
+  color: green;
+}

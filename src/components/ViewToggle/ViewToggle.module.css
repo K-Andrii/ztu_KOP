@@ -1,0 +1,11 @@
+.toggleBtn {
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: 1px solid #aaa;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  font-weight: bold;
+}
+.toggleBtn:hover {
+  background-color: #e0e0e0;
+}
